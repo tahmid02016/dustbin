@@ -3,4 +3,5 @@ description: "সারাংশ হলো কোনো একটি বিষ�
 locale: bn_BD
 show_downloads: true
 google_analytics:
+permalink: none
 theme: jekyll-theme-midnight
