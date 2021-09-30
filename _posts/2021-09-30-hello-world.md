@@ -2,7 +2,7 @@
 layout: default
 title: "Lorem ipsum"
 tagline: "dolor del amet"
-urlname: "https://tahmid02016.github.io/dustbin/hello-world"
+urlname: "hello-world"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ac justo ut augue maximus sollicitudin ac at urna. Duis est libero, bibendum ut purus eget, blandit ornare augue. Nunc eget lacus condimentum, interdum sem sed, interdum tellus. Nulla molestie, enim nec tincidunt bibendum, odio urna rhoncus urna, ultrices lobortis lectus ipsum vitae nisi. Proin non magna a leo aliquet porttitor consectetur sed nisi. Integer molestie tortor quis urna auctor aliquet. In nec quam auctor, cursus magna sit amet, pretium risus. Sed fermentum ligula id semper fermentum. Sed et risus vel ligula sollicitudin pellentesque.
